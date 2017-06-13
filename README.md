@@ -1,12 +1,12 @@
 # Edge(Look) SDK
 
-[![Latest Stable Version](https://img.shields.io/badge/version-1.4.0-green.svg)](http://developer.samsung.com/galaxy/accessory)
+[![Latest Stable Version](https://img.shields.io/badge/version-1.4.0-green.svg)](http://developer.samsung.com/galaxy/edge)
 
 > __Note:__ 
 
-1) Edge applications (API 22 or lower) should be republished to Mashmallow (API 23) as Android 6.0 changes the Runtime permissions and the Android Marshmallow policy.
-2) Look SDK v.1.3.0 supports new UI styles to be developed on Edge applications with richer UIs.
-3) The S-Pen features in the Look SDK(AirButton, SmartClip, WritingBuddy, PointerIcon) will be deprecated from Android 7.0 Nougat. Accordingly, the AirButton and the WritingBuddy features will be deleted starting from the Look SDK 1.4.0. In addition, the SmartClip and the PointerIcon will be not available as of 30th of June, 2017. Please note that the call of the features have no action any more from Android 7.0 Nougat. news.
+> 1) Edge applications (API 22 or lower) should be republished to Mashmallow (API 23) as Android 6.0 changes the Runtime permissions and the Android Marshmallow policy.
+> 2) Look SDK v.1.3.0 supports new UI styles to be developed on Edge applications with richer UIs.
+> 3) The S-Pen features in the Look SDK(AirButton, SmartClip, WritingBuddy, PointerIcon) will be deprecated from Android 7.0 Nougat. Accordingly, the AirButton and the WritingBuddy features will be deleted starting from the Look SDK 1.4.0. In addition, the SmartClip and the PointerIcon will be not available as of 30th of June, 2017. Please note that the call of the features have no action any more from Android 7.0 Nougat. news.
 
 Edge(Look) offers specialized widgets and service components for extended functions of the Samsung Android devices.
 
