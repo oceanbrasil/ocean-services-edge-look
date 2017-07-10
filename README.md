@@ -41,7 +41,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-edge-look:1.4.0'
+    compile 'com.github.oceanbrasil:ocean-services-edge-look:1.4.0'
 }
 ```
 
